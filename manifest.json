@@ -3,9 +3,9 @@
     "apps": [
       {
         "name": "review-apps",
-        "headCommitId": "84f4656354539c7a30272d00f0ad755ee0e9f58b",
-        "updatedAt": "2021-05-12T22:53:00.949Z",
-        "href": "review-apps/pr-apps/84f465",
+        "headCommitId": "64411a3ea17d8ab903c00744a3020e5e8fa5d2ab",
+        "updatedAt": "2021-05-13T02:51:03.417Z",
+        "href": "review-apps/pr-apps/64411a",
         "pullRequestUrl": "https://github.com/docforcedev/xrpl-dev-portal/pull/1"
       }
     ]
